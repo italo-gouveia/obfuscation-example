@@ -1,0 +1,5 @@
+com.example.obfuscation.obfuscation_example.EncryptDecryptRSA -> com.example.obfuscation.obfuscation_example.EncryptDecryptRSA:
+    void <init>() -> <init>
+    byte[] encrypt(java.lang.String,java.security.PublicKey) -> a
+    java.lang.String decrypt(byte[],java.security.PrivateKey) -> a
+    void main(java.lang.String[]) -> main
